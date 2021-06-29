@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GinoBond
-Mi interessa l'intelligne artificiale applicata alla visione ed alla robotica
-- 👀 I’m interested in ...
+- 👀 I’m interested in  l'intelligenza artificai applicata alla visione ed alla robotica
 - 🌱 I’m currently learning ...
 Ad utilizzare openCV
 - 💞️ I’m looking to collaborate on  sistemi di visione per guida robot     
